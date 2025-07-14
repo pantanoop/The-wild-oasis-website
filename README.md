@@ -152,20 +152,21 @@ Visit [http://localhost:3000](http://localhost:3000) 🚀
 ## 🫧 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/home.png" alt="Hero Section" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshorts/home.png" alt="Hero Section" width="600"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/cabinList.png" alt="Cabin Listings" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshorts/cabinList.png" alt="Cabin Listings" width="600"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/RazorPaygateway.png" alt="Payment Gateway" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshorts/RazorPaygateway.png" alt="Payment Gateway" width="600"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/email.png" alt="Confirmation Email" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshorts/email.png" alt="Confirmation Email" width="600"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/reservationList.png" alt="Reservation Listing" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshorts/reservationList.png" alt="Reservation Listing" width="600"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/editReservation.png" alt="Reservation Edit" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshorts/editReservation.png" alt="Reservation Edit" width="600"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/about.png" alt="About Wild Oasis" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshorts/about.png" alt="About Wild Oasis" width="600"/>
 </p>
+
 
 ---
 
