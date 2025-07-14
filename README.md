@@ -152,19 +152,19 @@ Visit [http://localhost:3000](http://localhost:3000) 🚀
 ## 🫧 Screenshots
 
 <p align="center">
-  <img src="public/screenshots/home.png" alt="Hero Section" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/home.png" alt="Hero Section" width="600"/>
   <br/>
-  <img src="public/screenshots/cabinList.png" alt="Cabin Listings" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/cabinList.png" alt="Cabin Listings" width="600"/>
   <br/>
-  <img src="public/screenshots/RazorPaygateway.png" alt="Payment Gateway" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/RazorPaygateway.png" alt="Payment Gateway" width="600"/>
   <br/>
-  <img src="public/screenshots/email.png" alt="Confirmation Email" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/email.png" alt="Confirmation Email" width="600"/>
   <br/>
-  <img src="public/screenshots/reservationList.png" alt="Reservation Listing" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/reservationList.png" alt="Reservation Listing" width="600"/>
   <br/>
-  <img src="public/screenshots/editReservation.png" alt="Reservation Edit" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/editReservation.png" alt="Reservation Edit" width="600"/>
   <br/>
-  <img src="public/screenshots/about.png" alt="About Wild Oasis" width="600"/>
+  <img src="https://raw.githubusercontent.com/pantanoop/The-wild-oasis-website/main/public/screenshots/about.png" alt="About Wild Oasis" width="600"/>
 </p>
 
 ---
